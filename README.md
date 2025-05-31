@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*Bae4dDfpgVJJVeSPhKkrfQ.gif"  />
+<img align="right" height="150" src="techstack.gif"  />
 
 ###
 
