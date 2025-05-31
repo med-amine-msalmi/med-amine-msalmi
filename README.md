@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="techstack.gif"  />
+<img align="right" width="36%" height="auto" src="techstack.gif"  />
 
 ###
 
