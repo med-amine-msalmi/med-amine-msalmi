@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Msalmi Mohamed and I'm a ICT Student Specializing in Software Engineering</h2>
+<div>
+<h2 align="left">Hi 👋! My name is Msalmi Mohamed </h2>
+<h3>Software Engineering Student </h3>
+</div>
+
 
 ###
 
