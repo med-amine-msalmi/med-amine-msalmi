@@ -1,7 +1,10 @@
 <div>
-<h2 align="left">Hi 👋! My name is Msalmi Mohamed </h2>
-<h3>Software Engineering Student </h3>
+<h2 align="left">Hi 👋! I'm Msalmi Mohamed </h2>
+<h3>
+I'm a passionate <strong>Software Engineering student</strong> who loves building real-world projects, Solving Problems and improving every day.  
+ </h3>
 </div>
+
 
 
 ###
