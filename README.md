@@ -10,8 +10,8 @@ I'm a passionate <strong>Software Engineering student</strong> who loves buildin
 ###
 
 <div align="center">
-  <img src="https://lkj-nine.vercel.app/api?username=med-amine-msalmi&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://lkj-nine.vercel.app/api/top-langs?username=med-amine-msalmi&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://lkj-nine.vercel.app/api?username=med-amine-msalmi&hide_title=false&show_icons=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://lkj-nine.vercel.app/api/top-langs?username=med-amine-msalmi&disable_animations=false&hide_title=false&show_icons=true&layout=compact&card_width=500&langs_count=6&theme=radical&hide_border=false"  alt="languages graph"  height="150"  />
 </div>
 
 ###
